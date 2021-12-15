@@ -29,4 +29,6 @@ h4{
 body{
     background: fixed;
     background-color: #d9840fd4;
+    background-image: linear-gradient(orange, coral);
+    font-family: Avenir Next W02,Helvetica,Arial,sans-serif;
 }
