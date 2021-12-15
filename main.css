@@ -32,7 +32,7 @@ body{
     background-image: linear-gradient(orange, coral);
     font-family: Avenir Next W02,Helvetica,Arial,sans-serif;
 }
-#quick-links{
+.quick-links{
     padding: 2px;
     margin: 2px;
     display: flex;

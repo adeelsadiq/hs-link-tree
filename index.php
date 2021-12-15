@@ -30,10 +30,12 @@
          <button type="submit">Submit</button>
       </form>  
 </div>
-<div id= "quick-links">
+<div class= "quick-links">
 <div class= "inner-link"><a href="#developer">Developer</a></div><div class= "inner-link"><a href="#contacts">Contacts</a></div><div class= "inner-link"><a href="#conversations">conversations</a></div><div class= "inner-link"><a href="#marketing">Marketing</a></div>
 <div class= "inner-link"><a href="#website">website</a></div><div class= "inner-link"><a href="#files">Files and Templates</a></div><div class= "inner-link"><a href="#leadcapture">Lead Capture</a></div><div class= "inner-link"><a href="#sales">Sales</a></div>
 <div class= "inner-link"><a href="#service">Service</a></div><div class= "inner-link"><a href="#automation">Automation</a></div><div class= "inner-link"><a href="#reports">Reports</a></div><div class= "inner-link"><a href="#shop">Shop Icon</a></div>
+</div>
+<div class= "quick-links">
 <div class= "inner-link"><a href="#settings">Settings</a></div><div class= "inner-link"><a href="#integrations">Integration Settings</a></div><div class= "inner-link"><a href="#tracking">Tracking Settings</a></div>
 <div class= "inner-link"><a href="#objects">Objects Settings</a></div><div class= "inner-link"><a href="#inbox">Inbox Settings</a></div><div class= "inner-link"><a href="#websitesettings">Website Settings</a></div>
      </div> 
@@ -324,9 +326,46 @@
                <td></td>
             </tr>
             <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/user-preferences/<?php echo $hubid ?>?eschref=%2Fuser-preferences%2F<?php echo $hubid ?>%2Fprofile"> Profile & Preferences </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/user-preferences/<?php echo $hubid ?>?eschref=%2Fuser-preferences%2F<?php echo $hubid ?>%2Fprofile"> https://app.hubspot.com/user-preferences/<?php echo $hubid ?>?eschref=%2Fuser-preferences%2F<?php echo $hubid ?>%2Fprofile </a></td>
-            </tr>     
+               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile"> Profile </a></td>
+               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile </a></td>
+            </tr>
+            <tr>
+               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email"> Email </a></td>
+               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email </a></td>
+            </tr>
+            <tr>
+               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling"> Calling </a></td>
+               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling </a></td>
+            </tr>
+            <tr>
+               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar"> Calendar </a></td>
+               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar </a></td>
+            </tr>
+            <tr>
+               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks"> Tasks </a></td>
+               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks </a></td>
+            </tr>
+            <tr>
+               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile"> Profile </a></td>
+               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile </a></td>
+            </tr>
+            <tr>
+               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email"> Email </a></td>
+               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email </a></td>
+            </tr>
+            <tr>
+               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling"> Calling </a></td>
+               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling </a></td>
+            </tr>
+            <tr>
+               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar"> Calendar </a></td>
+               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar </a></td>
+            </tr>
+            <tr>
+               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks"> Tasks </a></td>
+               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks </a></td>
+            </tr>
+            <tr>     
             <tr>
                <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences"> General </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences </a></td>
@@ -527,47 +566,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/customer-portal"> Customer PortalBeta </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/customer-portal"> https://app.hubspot.com/settings/<?php echo $hubid ?>/customer-portal </a></td>
             </tr>
-            <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile"> Profile </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile </a></td>
-            </tr>
-            <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email"> Email </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email </a></td>
-            </tr>
-            <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling"> Calling </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling </a></td>
-            </tr>
-            <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar"> Calendar </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar </a></td>
-            </tr>
-            <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks"> Tasks </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks </a></td>
-            </tr>
-            <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile"> Profile </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/profile </a></td>
-            </tr>
-            <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email"> Email </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/email </a></td>
-            </tr>
-            <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling"> Calling </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calling </a></td>
-            </tr>
-            <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar"> Calendar </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/calendar </a></td>
-            </tr>
-            <tr>
-               <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks"> Tasks </a></td>
-               <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks"> https://app.hubspot.com/settings/<?php echo $hubid ?>/user-preferences/tasks </a></td>
-            </tr>
-            <tr>
+            
                <td> <a target="_blank" href="https://legal.hubspot.com/privacy-policy"> Privacy Policy </a></td>
                <td><a target="_blank" href="https://legal.hubspot.com/privacy-policy"> https://legal.hubspot.com/privacy-policy </a></td>
             </tr>
