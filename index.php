@@ -33,7 +33,9 @@
      <div id= "quick-links">
 <div><a href="#developer">Developer</a></div><div><a href="#contacts">Contacts</a></div><div><a href="#conversations">conversations</a></div><div><a href="#marketing">Marketing</a></div>
 <div><a href="#website">website</a></div><div><a href="#files">Files and Templates</a></div><div><a href="#leadcapture">Lead Capture</a></div><div><a href="#sales">Sales</a></div>
-<div><a href="#website">website</a></div><div><a href="#website">website</a></div><div><a href="#website">website</a></div><div><a href="#website">website</a></div>
+<div><a href="#service">Service</a></div><div><a href="#automation">Automation</a></div><div><a href="#reports">Reports</a></div><div><a href="#shop">Shop Icon</a></div>
+<div><a href="#settings">Settings</a></div><div><a href="#integrations">Integration Settings</a></div><div><a href="#tracking">Tracking Settings</a></div>
+<div><a href="#objects">Objects Settings</a></div><div><a href="#inbox">Inbox Settings</a></div><div><a href="#websitesettings">Website Settings</a></div>
      </div> 
       
 <table>
@@ -240,7 +242,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/quotes/<?php echo $hubid ?>"> Quotes </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/quotes/<?php echo $hubid ?>"> https://app.hubspot.com/quotes/<?php echo $hubid ?> </a></td>
             </tr>
-            <tr>
+            <tr id= "service">
                <td> <h4> Service </h4></td>
                <td></td>
             </tr>
@@ -260,7 +262,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/customer-portal/general?isBeta=true"> Customer Portal Beta </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/customer-portal/general?isBeta=true"> https://app.hubspot.com/settings/<?php echo $hubid ?>/customer-portal/general?isBeta=true </a></td>
             </tr>
-            <tr>
+            <tr id = "automation">
                <td> <h4> Automation </h4></td>
                <td></td>
             </tr>
@@ -272,7 +274,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/workflows/<?php echo $hubid ?>"> Workflows </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/workflows/<?php echo $hubid ?>"> https://app.hubspot.com/workflows/<?php echo $hubid ?> </a></td>
             </tr>
-            <tr>
+            <tr id= "reports">
                <td> <h4> Reports </h4></td>
                <td></td>
             </tr>
@@ -293,7 +295,7 @@
                <td><a target="_blank" href="https://app.hubspot.com/reporting-datasets/<?php echo $hubid ?>"> https://app.hubspot.com/reporting-datasets/<?php echo $hubid ?> </a></td>
             </tr>
 
-            <tr>
+            <tr id= "shop">
                <td> <a target="_blank" href="https://app.hubspot.com/ecosystem/<?php echo $hubid ?>/marketplace/apps"> App Marketplace Find apps to integrate with HubSpot </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/ecosystem/<?php echo $hubid ?>/marketplace/apps"> https://app.hubspot.com/ecosystem/<?php echo $hubid ?>/marketplace/apps </a></td>
             </tr>
@@ -317,7 +319,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/account-dashboard/<?php echo $hubid ?>/"> Account & Billing </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/account-dashboard/<?php echo $hubid ?>/"> https://app.hubspot.com/account-dashboard/<?php echo $hubid ?>/ </a></td>
             </tr>
-            <tr>
+            <tr id = "settings">
                <td> <h4>Settings </h4></td>
                <td></td>
             </tr>
@@ -345,7 +347,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/users"> Users & Teams </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/users"> https://app.hubspot.com/settings/<?php echo $hubid ?>/users </a></td>
             </tr>
-            <tr>
+            <tr id="integrations">
                <td> <a target="_blank" href=""> Integrations </a></td>
                <td><a target="_blank" href="">  </a></td>
             </tr>
@@ -377,7 +379,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/marketplace-settings/<?php echo $hubid ?>/downloads"> Marketplace Downloads </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/marketplace-settings/<?php echo $hubid ?>/downloads"> https://app.hubspot.com/marketplace-settings/<?php echo $hubid ?>/downloads </a></td>
             </tr>
-            <tr>
+            <tr id="tracking">
                <td> <a target="_blank" href=""> Tracking & Analytics </a></td>
                <td><a target="_blank" href="">  </a></td>
             </tr>
@@ -413,7 +415,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/property-settings/<?php echo $hubid ?>"> Properties </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/property-settings/<?php echo $hubid ?>"> https://app.hubspot.com/property-settings/<?php echo $hubid ?> </a></td>
             </tr>
-            <tr>
+            <tr id= "objects">
                <td> <a target="_blank" href=""> Objects </a></td>
                <td><a target="_blank" href="">  </a></td>
             </tr>
@@ -453,7 +455,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/sales-products-settings/<?php echo $hubid ?>/importexport"> Import & Export </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/sales-products-settings/<?php echo $hubid ?>/importexport"> https://app.hubspot.com/sales-products-settings/<?php echo $hubid ?>/importexport </a></td>
             </tr>
-            <tr>
+            <tr id= "inbox">
                <td> <a target="_blank" href=""> Inbox </a></td>
                <td><a target="_blank" href="">  </a></td>
             </tr>
@@ -489,7 +491,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/social/<?php echo $hubid ?>/settings"> Social </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/social/<?php echo $hubid ?>/settings"> https://app.hubspot.com/social/<?php echo $hubid ?>/settings </a></td>
             </tr>
-            <tr>
+            <tr id="websitesettings">
                <td> <a target="_blank" href=""> Website </a></td>
                <td><a target="_blank" href="">  </a></td>
             </tr>
