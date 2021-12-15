@@ -44,6 +44,14 @@ body{
 body a{
     text-decoration: none;
 }
+body a:link {
+    color: rgb(22, 22, 22);
+  }
+  
+  /* visited link */
+  body a:visited {
+    color: rgb(22, 22, 22);
+  }
 .quick-links{
     padding: 2px;
     margin: 2px;
