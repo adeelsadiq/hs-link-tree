@@ -31,7 +31,7 @@
       <header>
          <h2>Please enter the hubid in the form below and submit to get all the useful liks for that hub. By default this will take you to my test portal.</h2>
       </header>
-      <form action="demo-page.php" method="_GET">
+      <form action="https://hs-link-tree.herokuapp.com/" method="_GET">
          <input type='text' name="hubid" value=''>
          <button type="submit">Submit</button>
       </form>
