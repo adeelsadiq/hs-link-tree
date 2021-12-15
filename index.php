@@ -30,12 +30,12 @@
          <button type="submit">Submit</button>
       </form>  
 </div>
-     <div id= "quick-links">
-<div><a href="#developer">Developer</a></div><div><a href="#contacts">Contacts</a></div><div><a href="#conversations">conversations</a></div><div><a href="#marketing">Marketing</a></div>
-<div><a href="#website">website</a></div><div><a href="#files">Files and Templates</a></div><div><a href="#leadcapture">Lead Capture</a></div><div><a href="#sales">Sales</a></div>
-<div><a href="#service">Service</a></div><div><a href="#automation">Automation</a></div><div><a href="#reports">Reports</a></div><div><a href="#shop">Shop Icon</a></div>
-<div><a href="#settings">Settings</a></div><div><a href="#integrations">Integration Settings</a></div><div><a href="#tracking">Tracking Settings</a></div>
-<div><a href="#objects">Objects Settings</a></div><div><a href="#inbox">Inbox Settings</a></div><div><a href="#websitesettings">Website Settings</a></div>
+<div id= "quick-links">
+<div class= "inner-link"><a href="#developer">Developer</a></div><div class= "inner-link"><a href="#contacts">Contacts</a></div><div class= "inner-link"><a href="#conversations">conversations</a></div><div class= "inner-link"><a href="#marketing">Marketing</a></div>
+<div class= "inner-link"><a href="#website">website</a></div><div class= "inner-link"><a href="#files">Files and Templates</a></div><div class= "inner-link"><a href="#leadcapture">Lead Capture</a></div><div class= "inner-link"><a href="#sales">Sales</a></div>
+<div class= "inner-link"><a href="#service">Service</a></div><div class= "inner-link"><a href="#automation">Automation</a></div><div class= "inner-link"><a href="#reports">Reports</a></div><div class= "inner-link"><a href="#shop">Shop Icon</a></div>
+<div class= "inner-link"><a href="#settings">Settings</a></div><div class= "inner-link"><a href="#integrations">Integration Settings</a></div><div class= "inner-link"><a href="#tracking">Tracking Settings</a></div>
+<div class= "inner-link"><a href="#objects">Objects Settings</a></div><div class= "inner-link"><a href="#inbox">Inbox Settings</a></div><div class= "inner-link"><a href="#websitesettings">Website Settings</a></div>
      </div> 
       
 <table>
@@ -593,5 +593,6 @@
       </div>
 
       </div>
+      <a id = "myBtn" href="#main-header"> ^Top</a>
     </body>
 </html>
