@@ -6,6 +6,7 @@
       
       <title>HS LinkTree</title>
    <link rel="stylesheet" href="main.css">
+   <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
 
       <?php
          if (isset($_GET['hubid'])) {
