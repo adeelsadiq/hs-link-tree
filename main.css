@@ -9,14 +9,23 @@
 td, th {
     border: 1px solid #ddd;
     padding: 8px;
+    font-size: larger;
   }
       tr:nth-child(even){background-color: #f2f2f2;}
       tr:hover {background-color: #ddd;}
 
 #main-form{
-    width: 25%;
+    width: 30%;
     margin: auto;
     padding-bottom: 1%;
+    
+}
+div#main-form input {
+    height: 25px;
+    font-size: large;
+}
+div#main-form button {
+    height: 31px;
 }
 #main-header{
     width: 60%;
@@ -28,9 +37,12 @@ h4{
 }
 body{
     background: fixed;
-    background-color: #d9840fd4;
-    background-image: linear-gradient(orange, coral);
+    background: rgb(228,121,14);
+    background: radial-gradient(circle, rgba(228,121,14,1) 0%, rgba(237,111,7,0.8519782913165266) 42%, rgba(255,244,0,1) 100%);
     font-family: Avenir Next W02,Helvetica,Arial,sans-serif;
+}
+body a{
+    text-decoration: none;
 }
 .quick-links{
     padding: 2px;
@@ -38,12 +50,22 @@ body{
     display: flex;
     flex-direction: row;
 }
-.inner-link{
-padding: 2px;
-margin: 5px;
-flex-wrap: wrap;
+.inner-link {
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    background: rgb(235 187 14);
+    border: solid mediumvioletred 1px;
+    border-radius: 23px;
 }
-
+.inner-link a{
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+    font-weight: 600;
+    font-size: smaller;
+}
 #myBtn {
     position: fixed;
     bottom: 20px;

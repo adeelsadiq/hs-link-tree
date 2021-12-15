@@ -12,7 +12,7 @@
          if (isset($_GET['hubid'])) {
            $hubid = $_GET['hubid'];
          } else {
-           $hubid = 8508105;
+           $hubid = 8593063;
          }
          
          ?>
@@ -37,9 +37,10 @@
 </div>
 <div class= "quick-links">
 <div class= "inner-link"><a href="#settings">Settings</a></div><div class= "inner-link"><a href="#integrations">Integration Settings</a></div><div class= "inner-link"><a href="#tracking">Tracking Settings</a></div>
-<div class= "inner-link"><a href="#objects">Objects Settings</a></div><div class= "inner-link"><a href="#inbox">Inbox Settings</a></div><div class= "inner-link"><a href="#websitesettings">Website Settings</a></div>
+<div class= "inner-link"><a href="#objects">Objects Settings</a></div><div class= "inner-link"><a href="#inbox">Inbox Settings</a></div><div class= "inner-link"><a href="#marketingset">Marketing Settings</a></div>
+<div class= "inner-link"><a href="#websitesettings">Website Settings</a></div><div class= "inner-link"><a href="#domains">Domains & URL's</a></div>
      </div> 
-      
+     
 <table>
          <thead>
             <tr>
@@ -510,7 +511,7 @@
                <td> <a target="_blank" href="https://app.hubspot.com/live-messages-settings/<?php echo $hubid ?>/allow-and-deny-list"> Allow & Deny List </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/live-messages-settings/<?php echo $hubid ?>/allow-and-deny-list"> https://app.hubspot.com/live-messages-settings/<?php echo $hubid ?>/allow-and-deny-list </a></td>
             </tr>
-            <tr>
+            <tr id = "marketingset">
                <td> <a target="_blank" href=""> Marketing </a></td>
                <td><a target="_blank" href="">  </a></td>
             </tr>
@@ -534,7 +535,7 @@
                <td> <a target="_blank" href=""> Website </a></td>
                <td><a target="_blank" href="">  </a></td>
             </tr>
-            <tr>
+            <tr id = "domains"> 
                <td> <a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/domains"> Domains & URLs </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/settings/<?php echo $hubid ?>/domains"> https://app.hubspot.com/settings/<?php echo $hubid ?>/domains </a></td>
             </tr>
