@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>jQuery Replace HTML</title>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	</head>
+
+	<body>
+
+		<h2>jQuery Replace HTML Example</h2>
+
+		<p id="html">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+
+		<button>Replace</button>
+
+		<p><strong>Note:</strong> It will change the HTML element.</p>
+
+		<script>
+			jQuery('button').click(function() {
+			    var html = "<strong>HTML element changed</strong>";
+			    jQuery("p#html").html(html);
+			});
+		</script>
+
+	</body>
+</html>

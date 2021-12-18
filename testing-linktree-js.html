@@ -5,52 +5,46 @@
 
 <script>
 
-// const urlParams = new URLSearchParams(window.location.search);
-// const hubid = urlParams.get(hubid);
-
- $(document).ready(function(){
-        $.getJSON("./links.json", function(data){
-            console.log(data); // Prints: Harry
-            
-        }).fail(function(){
-            console.log("An error has occurred.");
-        });
+const urlParams = new URLSearchParams(window.location.search);
+let hubid = urlParams.get('hubid');
+if (hubid != null){
+	 
+	$(document).ready(function(){
+  
+    document.getElementById("greet").innerHTML = "Hub ID is: " + hubid + ""; 
+    $('a').each(function(){
+        this.href = this.href.replace('180584', `${hubid}`);
     });
+  	// $("td").text($("td").text().replace(/180584/g, `${hubid}`));
+    
+});
+
+	// document.getElementById("greet").innerHTML = "Hub ID is: " + hubid + ""; 
+}else{
+	
+	alert ("The Default HubId for my test portal has been applied, please enter HubId in the form on the top of the page to get links for your Hub.");
+}
+
 </script>
 
 
 </head>
 <body>
 
-<button type="button" onclick="$(document).ready(function(){
-  
-    
-    $('a').each(function(){
-        this.href = this.href.replace('180584', `${hubid}`);
-    });
-});">
-Click me </button>
+
 <div id="outer-container">
    <div id="inner-container">
-
-      
+<div id="greet"> </div>
 <div id="main-form">
 <form action="" method="_GET">
          <input type="text" name="hubid" value="">
-         <button id= submit type="submit" onclick="$(document).ready(function(){
- 
-
-    
-    $('a').each(function(){
-        this.href = this.href.replace('180584', `${hubid}`);
-    });
-});">Submit</button>
+         <button id= submit type="submit">Submit</button>
       </form>  
 </div>
 
 <br><br>
 
-<a target="_blank" href=`https://app.hubspot.com/reports-dashboard/${hubid}`> Demo link  </a>
+<a target="_blank" href="https://app.hubspot.com/reports-dashboard/180584">https://app.hubspot.com/reports-dashboard/180584</a>
 
 
 <br>
@@ -65,8 +59,10 @@ Click me </button>
 <div class="inner-link"><a href="#objects">Objects Settings</a></div><div class="inner-link"><a href="#inbox">Inbox Settings</a></div><div class="inner-link"><a href="#marketingset">Marketing Settings</a></div>
 <div class="inner-link"><a href="#websitesettings">Website Settings</a></div><div class="inner-link"><a href="#domains">Domains &amp; URL's</a></div>
      </div> 
+
+
      
-<table>
+<table id = "main-table">
          <thead>
             <tr>
                <th>Name</th>
@@ -75,7 +71,7 @@ Click me </button>
          </thead>
          <tbody>
             <tr>
-               <td> <a target="_blank" href=`https://app.hubspot.com/reports-dashboard/${hubid}`> Main dash / Home </a></td>
+               <td> <a target="_blank" href="https://app.hubspot.com/reports-dashboard/180584"> Main dash / Home </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/reports-dashboard/180584"> https://app.hubspot.com/reports-dashboard/180584 </a></td>
             </tr>
             <tr id="developer">
