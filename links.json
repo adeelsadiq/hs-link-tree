@@ -1,0 +1,746 @@
+[
+   {
+      "#hs-nav-v4--logo .cls-1 { fill: none; } #hs-nav-v4--logo .cls-2 { clip-path: url(#a); } #hs-nav-v4--logo .cls-3 { fill: #ff7a59; opacity: 1; }":
+      "https://app.hubspot.com/reports-dashboard/8508105"
+   },
+   {
+      "Developer":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/#"
+   },
+   {
+      "Design Manager":
+      "https://app.hubspot.com/design-manager/8508105"
+   },
+   {
+      "Content Staging":
+      "https://app.hubspot.com/content/8508105/staging/"
+   },
+   {
+      "Website Pages":
+      "https://app.hubspot.com/pages/8508105/manage/site/domain/all/listing/all"
+   },
+   {
+      "HubDB":
+      "https://app.hubspot.com/hubdb/8508105"
+   },
+   {
+      "File Manager":
+      "https://app.hubspot.com/file-manager-beta/8508105"
+   },
+   {
+      "Advanced Menus":
+      "https://app.hubspot.com/settings/8508105/website/navigation"
+   },
+   {
+      "Content Settings":
+      "https://app.hubspot.com/settings/8508105/website/pages/all-domains/page-templates"
+   },
+   {
+      "URL Redirects":
+      "https://app.hubspot.com/domains/8508105/url-redirects"
+   },
+   {
+      "Marketplace":
+      "https://app.hubspot.com/marketplace/8508105/products"
+   },
+   {
+      "Contacts":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/?isDestination=false"
+   },
+   {
+      "Contacts":
+      "https://app.hubspot.com/contacts/8508105/contacts"
+   },
+   {
+      "Companies":
+      "https://app.hubspot.com/contacts/8508105/companies"
+   },
+   {
+      "Calls":
+      "https://app.hubspot.com/contacts/8508105/objects/0-48/views/all/list"
+   },
+   {
+      "Target Accounts":
+      "https://app.hubspot.com/target-accounts/8508105"
+   },
+   {
+      "Activity Feed":
+      "https://app.hubspot.com/activity-feed/8508105"
+   },
+   {
+      "Lists":
+      "https://app.hubspot.com/contacts/8508105/objectLists"
+   },
+   {
+      "Conversations":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/?isDestination=false"
+   },
+   {
+      "Inbox":
+      "https://app.hubspot.com/live-messages/8508105"
+   },
+   {
+      "Chatflows":
+      "https://app.hubspot.com/chatflows/8508105"
+   },
+   {
+      "Snippets":
+      "https://app.hubspot.com/snippets/8508105"
+   },
+   {
+      "Templates":
+      "https://app.hubspot.com/templates/8508105"
+   },
+   {
+      "Marketing":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/?isDestination=false"
+   },
+   {
+      "Ads":
+      "https://app.hubspot.com/ads/8508105"
+   },
+   {
+      "Email":
+      "https://app.hubspot.com/email/8508105/manage"
+   },
+   {
+      "Landing Pages":
+      "https://app.hubspot.com/website/8508105/pages/landing"
+   },
+   {
+      "Social":
+      "https://app.hubspot.com/social/8508105"
+   },
+   {
+      "Website":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/#?isDestination=false"
+   },
+   {
+      "Website Pages":
+      "https://app.hubspot.com/website/8508105/pages/site"
+   },
+   {
+      "Blog":
+      "https://app.hubspot.com/website/8508105/blog"
+   },
+   {
+      "SEO":
+      "https://app.hubspot.com/content-strategy/8508105"
+   },
+   {
+      "Campaigns":
+      "https://app.hubspot.com/marketing/8508105/campaigns"
+   },
+   {
+      "Files and Templates":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/#?isDestination=false"
+   },
+   {
+      "Design Tools":
+      "https://app.hubspot.com/design-manager/8508105"
+   },
+   {
+      "Files":
+      "https://app.hubspot.com/files/8508105"
+   },
+   {
+      "HubDB":
+      "https://app.hubspot.com/hubdb/8508105"
+   },
+   {
+      "Lead Capture":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/#?isDestination=false"
+   },
+   {
+      "CTAs":
+      "https://app.hubspot.com/ctas/8508105"
+   },
+   {
+      "Forms":
+      "https://app.hubspot.com/forms/8508105"
+   },
+   {
+      "Sales":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/?isDestination=false"
+   },
+   {
+      "Deals":
+      "https://app.hubspot.com/contacts/8508105/deals"
+   },
+   {
+      "Forecast":
+      "https://app.hubspot.com/forecasting/8508105"
+   },
+   {
+      "Tasks":
+      "https://app.hubspot.com/tasks/8508105"
+   },
+   {
+      "Documents":
+      "https://app.hubspot.com/documents/8508105"
+   },
+   {
+      "Meetings":
+      "https://app.hubspot.com/meetings/8508105"
+   },
+   {
+      "Payments Beta":
+      "https://app.hubspot.com/settings/8508105/sales/payments?isBeta=true"
+   },
+   {
+      "Playbooks":
+      "https://app.hubspot.com/playbooks/8508105"
+   },
+   {
+      "Quotes":
+      "https://app.hubspot.com/quotes/8508105"
+   },
+   {
+      "Service":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/?isDestination=false"
+   },
+   {
+      "Tickets":
+      "https://app.hubspot.com/contacts/8508105/tickets"
+   },
+   {
+      "Feedback Surveys":
+      "https://app.hubspot.com/feedback/8508105"
+   },
+   {
+      "Knowledge Base":
+      "https://app.hubspot.com/knowledge/8508105"
+   },
+   {
+      "Customer Portal Beta":
+      "https://app.hubspot.com/settings/8508105/customer-portal/general?isBeta=true"
+   },
+   {
+      "Automation":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/?isDestination=false"
+   },
+   {
+      "Sequences":
+      "https://app.hubspot.com/sequences/8508105"
+   },
+   {
+      "Workflows":
+      "https://app.hubspot.com/workflows/8508105"
+   },
+   {
+      "Reports":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/?isDestination=false"
+   },
+   {
+      "Analytics Tools":
+      "https://app.hubspot.com/analytics/8508105/tools"
+   },
+   {
+      "Dashboards":
+      "https://app.hubspot.com/reports-dashboard/8508105"
+   },
+   {
+      "Reports":
+      "https://app.hubspot.com/reports-list/8508105"
+   },
+   {
+      "Datasets":
+      "https://app.hubspot.com/reporting-datasets/8508105"
+   },
+   {
+      "#hs-nav-v4--logo .cls-1 { fill: none; } #hs-nav-v4--logo .cls-2 { clip-path: url(#a); } #hs-nav-v4--logo .cls-3 { fill: #ff7a59; opacity: 1; }":
+      "https://app.hubspot.com/reports-dashboard/8508105"
+   },
+   {
+      "Menu":
+      ""
+   },
+   {
+      "":
+      ""
+   },
+   {
+      "":
+      ""
+   },
+   {
+      "":
+      ""
+   },
+   {
+      "Contacts":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/"
+   },
+   {
+      "Contacts":
+      "https://app.hubspot.com/contacts/8508105/contacts"
+   },
+   {
+      "Companies":
+      "https://app.hubspot.com/contacts/8508105/companies"
+   },
+   {
+      "Calls":
+      "https://app.hubspot.com/contacts/8508105/objects/0-48/views/all/list"
+   },
+   {
+      "Target Accounts":
+      "https://app.hubspot.com/target-accounts/8508105"
+   },
+   {
+      "Activity Feed":
+      "https://app.hubspot.com/activity-feed/8508105"
+   },
+   {
+      "Lists":
+      "https://app.hubspot.com/contacts/8508105/objectLists"
+   },
+   {
+      "Developer":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/#"
+   },
+   {
+      "Design Manager":
+      "https://app.hubspot.com/design-manager/8508105"
+   },
+   {
+      "Content Staging":
+      "https://app.hubspot.com/content/8508105/staging/"
+   },
+   {
+      "Website Pages":
+      "https://app.hubspot.com/pages/8508105/manage/site/domain/all/listing/all"
+   },
+   {
+      "HubDB":
+      "https://app.hubspot.com/hubdb/8508105"
+   },
+   {
+      "File Manager":
+      "https://app.hubspot.com/file-manager-beta/8508105"
+   },
+   {
+      "Advanced Menus":
+      "https://app.hubspot.com/settings/8508105/website/navigation"
+   },
+   {
+      "Content Settings":
+      "https://app.hubspot.com/settings/8508105/website/pages/all-domains/page-templates"
+   },
+   {
+      "URL Redirects":
+      "https://app.hubspot.com/domains/8508105/url-redirects"
+   },
+   {
+      "Marketplace":
+      "https://app.hubspot.com/marketplace/8508105/products"
+   },
+   {
+      "Conversations":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/"
+   },
+   {
+      "Inbox":
+      "https://app.hubspot.com/live-messages/8508105"
+   },
+   {
+      "Chatflows":
+      "https://app.hubspot.com/chatflows/8508105"
+   },
+   {
+      "Snippets":
+      "https://app.hubspot.com/snippets/8508105"
+   },
+   {
+      "Templates":
+      "https://app.hubspot.com/templates/8508105"
+   },
+   {
+      "Marketing":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/"
+   },
+   {
+      "Ads":
+      "https://app.hubspot.com/ads/8508105"
+   },
+   {
+      "Email":
+      "https://app.hubspot.com/email/8508105/manage"
+   },
+   {
+      "Landing Pages":
+      "https://app.hubspot.com/website/8508105/pages/landing"
+   },
+   {
+      "Social":
+      "https://app.hubspot.com/social/8508105"
+   },
+   {
+      "Website":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/#?isDestination=false"
+   },
+   {
+      "Website Pages":
+      "https://app.hubspot.com/website/8508105/pages/site"
+   },
+   {
+      "Blog":
+      "https://app.hubspot.com/website/8508105/blog"
+   },
+   {
+      "SEO":
+      "https://app.hubspot.com/content-strategy/8508105"
+   },
+   {
+      "Campaigns":
+      "https://app.hubspot.com/marketing/8508105/campaigns"
+   },
+   {
+      "Files and Templates":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/#?isDestination=false"
+   },
+   {
+      "Design Tools":
+      "https://app.hubspot.com/design-manager/8508105"
+   },
+   {
+      "Files":
+      "https://app.hubspot.com/files/8508105"
+   },
+   {
+      "HubDB":
+      "https://app.hubspot.com/hubdb/8508105"
+   },
+   {
+      "Lead Capture":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/#?isDestination=false"
+   },
+   {
+      "CTAs":
+      "https://app.hubspot.com/ctas/8508105"
+   },
+   {
+      "Forms":
+      "https://app.hubspot.com/forms/8508105"
+   },
+   {
+      "Sales":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/"
+   },
+   {
+      "Deals":
+      "https://app.hubspot.com/contacts/8508105/deals"
+   },
+   {
+      "Forecast":
+      "https://app.hubspot.com/forecasting/8508105"
+   },
+   {
+      "Tasks":
+      "https://app.hubspot.com/tasks/8508105"
+   },
+   {
+      "Documents":
+      "https://app.hubspot.com/documents/8508105"
+   },
+   {
+      "Meetings":
+      "https://app.hubspot.com/meetings/8508105"
+   },
+   {
+      "Payments Beta":
+      "https://app.hubspot.com/settings/8508105/sales/payments?isBeta=true"
+   },
+   {
+      "Playbooks":
+      "https://app.hubspot.com/playbooks/8508105"
+   },
+   {
+      "Quotes":
+      "https://app.hubspot.com/quotes/8508105"
+   },
+   {
+      "Service":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/"
+   },
+   {
+      "Tickets":
+      "https://app.hubspot.com/contacts/8508105/tickets"
+   },
+   {
+      "Feedback Surveys":
+      "https://app.hubspot.com/feedback/8508105"
+   },
+   {
+      "Knowledge Base":
+      "https://app.hubspot.com/knowledge/8508105"
+   },
+   {
+      "Customer Portal Beta":
+      "https://app.hubspot.com/settings/8508105/customer-portal/general?isBeta=true"
+   },
+   {
+      "Automation":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/"
+   },
+   {
+      "Sequences":
+      "https://app.hubspot.com/sequences/8508105"
+   },
+   {
+      "Workflows":
+      "https://app.hubspot.com/workflows/8508105"
+   },
+   {
+      "Reports":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/"
+   },
+   {
+      "Analytics Tools":
+      "https://app.hubspot.com/analytics/8508105/tools"
+   },
+   {
+      "Dashboards":
+      "https://app.hubspot.com/reports-dashboard/8508105"
+   },
+   {
+      "Reports":
+      "https://app.hubspot.com/reports-list/8508105"
+   },
+   {
+      "Datasets":
+      "https://app.hubspot.com/reporting-datasets/8508105"
+   },
+   {
+      "Search":
+      ""
+   },
+   {
+      "App Marketplace Find apps to integrate with HubSpot":
+      "https://app.hubspot.com/ecosystem/8508105/marketplace/apps?source=topNav"
+   },
+   {
+      "Asset Marketplace Find themes, modules, and templates":
+      "https://app.hubspot.com/ecosystem/8508105/marketplace/assets?source=topNav"
+   },
+   {
+      ".g,.k{fill:#fff}.e{fill:#9b5b4e}.g{opacity:.25}.h{fill:#e28b6d;opacity:.8}.i{fill:#844035;opacity:.73}.k{opacity:.17}.m{fill:none} Solutions Directory Find your perfect service provider match":
+      "https://app.hubspot.com/ecosystem/8508105/marketplace/solutions?source=topNav"
+   },
+   {
+      "Connected apps":
+      "https://app.hubspot.com/integrations-settings/8508105/installed?source=topNav"
+   },
+   {
+      "Marketplace downloads":
+      "https://app.hubspot.com/marketplace-settings/8508105/downloads?source=topNav"
+   },
+   {
+      "Settings":
+      "https://app.hubspot.com/user-preferences/8508105?eschref=%2Fsettings%2F8508105%2Fdomains%2Fbusiness-unit%2Fview-all%2F"
+   },
+   {
+      "Adeel Sadiq asadiq@hubspot.com Profile & Preferences":
+      "https://app.hubspot.com/user-preferences/8508105?eschref=%2Fsettings%2F8508105%2Fdomains%2Fbusiness-unit%2Fview-all%2F"
+   },
+   {
+      "Adeel's Portal 8508105":
+      ""
+   },
+   {
+      "All accounts":
+      "https://app.hubspot.com/myaccounts-beta"
+   },
+   {
+      "Account & Billing":
+      "https://app.hubspot.com/account-dashboard/8508105/"
+   },
+   {
+      "HubSpot Academy":
+      "https://app.hubspot.com/academy/8508105?LC004=Control"
+   },
+   {
+      "Pricing & Features":
+      "https://app.hubspot.com/pricing/8508105?upgradeSource=nav-dropdown"
+   },
+   {
+      "Product Updates":
+      "https://app.hubspot.com/whats-new/8508105"
+   },
+   {
+      "Projects":
+      "https://app.hubspot.com/projects/8508105"
+   },
+   {
+      "Training & Services":
+      "https://www.hubspot.com/services"
+   },
+   {
+      "Sign out":
+      "https://app.hubspot.com/login-api/v1/logout/all"
+   },
+   {
+      "Privacy policy":
+      "https://legal.hubspot.com/privacy-policy"
+   },
+   {
+      "Back to Reports":
+      "https://app.hubspot.com/reports-dashboard/8508105/view/7989503"
+   },
+   {
+      "General":
+      "https://app.hubspot.com/settings/8508105/user-preferences"
+   },
+   {
+      "Notifications":
+      "https://app.hubspot.com/notification-preferences/8508105"
+   },
+   {
+      "Security":
+      "https://app.hubspot.com/user-preferences/8508105/security"
+   },
+   {
+      "Account Defaults":
+      "https://app.hubspot.com/settings/8508105/account-defaults"
+   },
+   {
+      "Users & Teams":
+      "https://app.hubspot.com/settings/8508105/users"
+   },
+   {
+      "Integrations":
+      ""
+   },
+   {
+      "Marketplace Downloads":
+      "https://app.hubspot.com/marketplace-settings/8508105/downloads"
+   },
+   {
+      "Tracking & Analytics":
+      ""
+   },
+   {
+      "Privacy & Consent":
+      "https://app.hubspot.com/settings/8508105/data-privacy"
+   },
+   {
+      "Sandboxes":
+      "https://app.hubspot.com/sandboxes/8508105"
+   },
+   {
+      "Business UnitsBeta":
+      "https://app.hubspot.com/settings/8508105/business-units"
+   },
+   {
+      "Properties":
+      "https://app.hubspot.com/property-settings/8508105"
+   },
+   {
+      "Objects":
+      ""
+   },
+   {
+      "Import & Export":
+      "https://app.hubspot.com/sales-products-settings/8508105/importexport"
+   },
+   {
+      "Inbox":
+      ""
+   },
+   {
+      "Marketing":
+      ""
+   },
+   {
+      "Website":
+      ""
+   },
+   {
+      "Domains & URLs":
+      "https://app.hubspot.com/settings/8508105/domains"
+   },
+   {
+      "Navigation":
+      "https://app.hubspot.com/menus/8508105/edit"
+   },
+   {
+      "Themes":
+      "https://app.hubspot.com/settings/8508105/website/themes"
+   },
+   {
+      "Blog":
+      "https://app.hubspot.com/settings/8508105/website/blogs"
+   },
+   {
+      "Pages":
+      "https://app.hubspot.com/settings/8508105/website/pages"
+   },
+   {
+      "Knowledge Base":
+      "https://app.hubspot.com/service-hub-settings/8508105/knowledge"
+   },
+   {
+      "Private Content":
+      "https://app.hubspot.com/settings/8508105/content-membership"
+   },
+   {
+      "Customer PortalBeta":
+      "https://app.hubspot.com/settings/8508105/customer-portal"
+   },
+   {
+      "PaymentsBeta":
+      "https://app.hubspot.com/settings/8508105/sales/payments"
+   },
+   {
+      "Domains":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/"
+   },
+   {
+      "URL Redirects":
+      "https://app.hubspot.com/settings/8508105/domains/url-redirects"
+   },
+   {
+      "Language Settings":
+      "https://app.hubspot.com/settings/8508105/marketing/domains/languageSettings"
+   },
+   {
+      "Sitemap":
+      "https://app.hubspot.com/settings/8508105/marketing/domains/sitemaps"
+   },
+   {
+      "Custom SSL":
+      "https://app.hubspot.com/custom-ssl/8508105"
+   },
+   {
+      "Domains":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/"
+   },
+   {
+      "URL Redirects":
+      "https://app.hubspot.com/settings/8508105/domains/url-redirects"
+   },
+   {
+      "Language Settings":
+      "https://app.hubspot.com/settings/8508105/marketing/domains/languageSettings"
+   },
+   {
+      "Sitemap":
+      "https://app.hubspot.com/settings/8508105/marketing/domains/sitemaps"
+   },
+   {
+      "Custom SSL":
+      "https://app.hubspot.com/custom-ssl/8508105"
+   },
+   {
+      "Get domains support":
+      ""
+   },
+   {
+      "Connect a redirect domain":
+      "https://app.hubspot.com/settings/8508105/domains/business-unit/view-all/add-domain/SELECT_DOMAIN/REDIRECT"
+   },
+   {
+      "1 Help":
+      ""
+   }
+]

@@ -2,9 +2,23 @@
 <html>
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 <script>
 
+// const urlParams = new URLSearchParams(window.location.search);
+// const hubid = urlParams.get(hubid);
+
+ $(document).ready(function(){
+        $.getJSON("./links.json", function(data){
+            console.log(data); // Prints: Harry
+            
+        }).fail(function(){
+            console.log("An error has occurred.");
+        });
+    });
 </script>
+
+
 </head>
 <body>
 
@@ -12,20 +26,25 @@
   
     
     $('a').each(function(){
-        this.href = this.href.replace('180584', '999');
+        this.href = this.href.replace('180584', `${hubid}`);
     });
 });">
 Click me </button>
 <div id="outer-container">
    <div id="inner-container">
 
-      <header id="main-header">
-         <h4>Please enter the Hub Id in the form below and submit. If no hubid is entered, by default this will take you to my test portal.</h4>
-      </header>
+      
 <div id="main-form">
 <form action="" method="_GET">
          <input type="text" name="hubid" value="">
-         <button id= submit type="submit">Submit</button>
+         <button id= submit type="submit" onclick="$(document).ready(function(){
+ 
+
+    
+    $('a').each(function(){
+        this.href = this.href.replace('180584', `${hubid}`);
+    });
+});">Submit</button>
       </form>  
 </div>
 
