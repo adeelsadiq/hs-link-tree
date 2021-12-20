@@ -14,15 +14,17 @@ if (hubid != null){
     document.getElementById("greet").innerHTML = "Hub ID is: " + hubid + ""; 
     $('a').each(function(){
         this.href = this.href.replace('180584', `${hubid}`);
+        this.innerHTML = this.innerHTML.replace('180584', `${hubid}`);
     });
   	// $("td").text($("td").text().replace(/180584/g, `${hubid}`));
-    
+     document.getElementById("greet").innerHTML = "Hub ID is: " + hubid + ""; 
+   
 });
 
 	// document.getElementById("greet").innerHTML = "Hub ID is: " + hubid + ""; 
 }else{
 	
-	alert ("The Default HubId for my test portal has been applied, please enter HubId in the form on the top of the page to get links for your Hub.");
+	// alert ("The Default HubId for my test portal has been applied, please enter HubId in the form on the top of the page to get links for your Hub.");
 }
 
 </script>
@@ -520,7 +522,7 @@ if (hubid != null){
                <td> <a target="_blank" href=""> Inbox </a></td>
                <td><a target="_blank" href="">  </a></td>
             </tr>
-            <tr>
+            <tr> 
                <td> <a target="_blank" href="https://app.hubspot.com/live-messages-settings/180584/inboxes"> Inboxes </a></td>
                <td><a target="_blank" href="https://app.hubspot.com/live-messages-settings/180584/inboxes"> https://app.hubspot.com/live-messages-settings/180584/inboxes </a></td>
             </tr>
